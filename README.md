@@ -26,6 +26,12 @@ Schéma relationnel des tables `csv`
 
 ![](https://i.imgur.com/HRhd2Y0.png)
 
+# Références
+
+J'ai analysé plusieurs kaggles pour me familiariser avec le dataset :
+
+- [Analyse temporelle et géographique](https://www.kaggle.com/code/eyadgk/brazilian-ecommerce-complete-eda)
+
 # Execution
 
 ```bash
